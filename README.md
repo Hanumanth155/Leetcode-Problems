@@ -12,6 +12,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -28,10 +29,15 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 ## Number Theory
 |  |
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

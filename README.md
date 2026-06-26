@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -40,4 +42,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->

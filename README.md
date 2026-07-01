@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
@@ -66,6 +67,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |

@@ -42,6 +42,7 @@
 | ------- |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -98,4 +99,9 @@
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

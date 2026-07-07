@@ -88,6 +88,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

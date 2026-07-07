@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -75,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0292-nim-game) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

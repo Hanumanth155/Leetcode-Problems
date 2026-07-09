@@ -12,6 +12,7 @@
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -25,6 +26,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -85,6 +87,7 @@
 | [0367-valid-perfect-square](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -146,4 +149,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

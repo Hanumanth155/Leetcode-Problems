@@ -60,6 +60,7 @@
 | [0441-arranging-coins](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |

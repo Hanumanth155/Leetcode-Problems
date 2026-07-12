@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -172,4 +174,8 @@
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

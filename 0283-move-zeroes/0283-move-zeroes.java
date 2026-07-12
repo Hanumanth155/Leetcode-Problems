@@ -10,8 +10,5 @@ class Solution {
         while(index<nums.length){
             nums[index++]=0;
         }
-
-        System.out.println(Arrays.toString(nums));
-
     }
 }

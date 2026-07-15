@@ -95,6 +95,7 @@
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
@@ -118,6 +119,7 @@
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0504-base-7) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |

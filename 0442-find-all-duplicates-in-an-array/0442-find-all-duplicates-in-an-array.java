@@ -7,7 +7,7 @@ class Solution {
             if(h.containsKey(x)){
                 a.add(x);
             }else{
-                h.put(x,h.getOrDefault(x,0)+1);
+                h.put(x,1);
 
             }
         }

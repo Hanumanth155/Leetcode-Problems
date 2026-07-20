@@ -136,6 +136,7 @@
 | [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -149,6 +150,7 @@
 | [0067-add-binary](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Union-Find
 |  |
 | ------- |

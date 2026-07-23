@@ -92,6 +92,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3765-complete-prime-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3765-complete-prime-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0204-count-primes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [3765-complete-prime-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3765-complete-prime-number) |
 ## Simulation
 |  |
 | ------- |

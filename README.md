@@ -225,4 +225,8 @@
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

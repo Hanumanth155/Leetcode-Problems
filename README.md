@@ -99,6 +99,7 @@
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3765-complete-prime-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3765-complete-prime-number) |

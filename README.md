@@ -26,6 +26,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
@@ -65,6 +67,7 @@
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |

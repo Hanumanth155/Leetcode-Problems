@@ -20,6 +20,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -53,6 +54,7 @@
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |

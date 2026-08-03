@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

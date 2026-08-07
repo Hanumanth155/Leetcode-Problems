@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -76,6 +78,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -222,6 +225,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -282,6 +286,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,4 +303,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

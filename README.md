@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +62,7 @@
 | [0229-majority-element-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -147,6 +149,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -160,6 +163,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -234,6 +238,7 @@
 | [0229-majority-element-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |

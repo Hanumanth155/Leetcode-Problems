@@ -42,6 +42,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -73,6 +74,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |

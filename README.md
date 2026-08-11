@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -247,6 +250,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0242-valid-anagram) |

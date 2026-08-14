@@ -6,9 +6,6 @@ class Solution {
             h.put(i,h.getOrDefault(i,0)+1);
         }
         int max = Collections.max(h.values());
-        if(max==1){
-            return nums.length;
-        }
         // System.out.println(max);
         int res=0;
         for(int i : h.values()){

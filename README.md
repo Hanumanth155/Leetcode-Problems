@@ -368,6 +368,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
 |  |

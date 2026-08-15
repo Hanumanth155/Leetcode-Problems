@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -374,6 +375,7 @@
 | [0141-linked-list-cycle](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |

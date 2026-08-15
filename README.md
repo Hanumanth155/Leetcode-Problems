@@ -368,6 +368,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |

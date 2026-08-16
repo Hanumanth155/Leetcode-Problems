@@ -255,6 +255,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -377,6 +378,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |

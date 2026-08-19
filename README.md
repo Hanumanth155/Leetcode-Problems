@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
@@ -166,6 +167,7 @@
 | [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0141-linked-list-cycle) |

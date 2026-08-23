@@ -201,6 +201,7 @@
 | [2540-minimum-common-value](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |

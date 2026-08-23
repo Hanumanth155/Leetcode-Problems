@@ -1,0 +1,37 @@
+class Solution {
+    public String reverseByType(String s) {
+        char[] ch = s.toCharArray();
+        int i=0;
+        int j=ch.length-1;
+        while(i<j){
+            if((Character.isLetter(ch[i])) && (Character.isLetter(ch[j]))){
+                char temp = ch[i];
+                ch[i] = ch[j];
+                ch[j] = temp;
+                i++;
+                j--;
+            }else if((Character.isLetter(ch[i])) && !(Character.isLetter(ch[j]))){
+                j--;
+            }else{
+                i++;
+            }
+        }
+         i=0;
+         j=ch.length-1;
+        while(i<j){
+            if(!(Character.isLetter(ch[i])) && !(Character.isLetter(ch[j]))){
+                char temp = ch[i];
+                ch[i] = ch[j];
+                ch[j] = temp;
+                i++;
+                j--;
+            }else if(!(Character.isLetter(ch[i]))){
+                j--;
+            }else{
+                i++;
+            }
+        }
+        String res = new String(ch);
+        return res;
+    }
+}

@@ -242,6 +242,7 @@
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0504-base-7) |
 | [0917-reverse-only-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -341,6 +342,7 @@
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
 ## Union-Find

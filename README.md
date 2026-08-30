@@ -403,6 +403,7 @@
 | [1148-article-views-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1683-invalid-tweets) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Divide and Conquer
 |  |
 | ------- |

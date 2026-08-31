@@ -19,7 +19,6 @@ class Solution {
             return merged[i]*1.0;
         }else{
             double x = merged[i]+merged[j];
-            x = x*1.0;
             return x/2;
         }
         

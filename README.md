@@ -56,6 +56,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -275,6 +276,7 @@
 | [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |

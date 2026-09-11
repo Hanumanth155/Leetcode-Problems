@@ -157,6 +157,7 @@
 | [0504-base-7](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -338,6 +339,7 @@
 | [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |

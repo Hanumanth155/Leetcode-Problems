@@ -46,6 +46,7 @@
 | [0724-find-pivot-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
+| [0896-monotonic-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |

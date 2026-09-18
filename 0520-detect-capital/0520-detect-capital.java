@@ -10,8 +10,7 @@ class Solution {
                 if(i==0){
                     first=true;
                 }
-            }
-            if(ch[i]>=97 && ch[i]<=122){
+            }else if(ch[i]>=97 && ch[i]<=122){
                 small++;
             }
 

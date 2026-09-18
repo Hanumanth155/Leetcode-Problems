@@ -6,7 +6,8 @@ class Solution {
         StringBuilder sb;
         for(int i=0;i<words.length;i++){
             if(words[i].length()<=2){
-              sb = new StringBuilder(words[i]);
+              sb = new StringBuilder(words[i].toLowerCase());
+              
             }else{
               sb = new StringBuilder(words[i]);
               sb.setCharAt(0,(char)(sb.charAt(0)-32));; 

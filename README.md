@@ -291,6 +291,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2129-capitalize-the-title](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |

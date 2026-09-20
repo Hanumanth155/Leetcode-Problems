@@ -301,6 +301,7 @@
 | [2716-minimize-string-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -328,6 +329,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
 |  |

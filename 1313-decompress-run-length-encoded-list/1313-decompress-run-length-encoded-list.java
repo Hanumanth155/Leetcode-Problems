@@ -1,18 +1,18 @@
 class Solution {
     public int[] decompressRLElist(int[] nums) {
-        ArrayList<Integer> a = new ArrayList<>();
+        int size=0;
+        for(int i=0;i<nums.length;i=i+2){
+            size+=nums[i];
+        }
+        int[] res = new int[size];
+        int index=0;
         for(int i=0;i<nums.length;i=i+2){
             int freq=nums[i];
             int val = nums[i+1];
             while(freq!=0){
-                a.add(val);
+                res[index++]=val;
                 freq--;
             }
-        }
-        int[] res = new int[a.size()];
-        int index=0;
-        for(int num : a){
-            res[index++]=num;
         }
         return res;
     }

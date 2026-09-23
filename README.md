@@ -77,6 +77,7 @@
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
@@ -121,6 +122,7 @@
 | [2540-minimum-common-value](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -173,6 +175,7 @@
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |

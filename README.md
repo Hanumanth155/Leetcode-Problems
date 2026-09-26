@@ -117,6 +117,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -233,6 +234,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -299,6 +301,7 @@
 | [0504-base-7](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
@@ -418,6 +421,7 @@
 | [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |

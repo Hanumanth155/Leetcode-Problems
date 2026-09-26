@@ -75,6 +75,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -245,6 +246,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -273,6 +275,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -403,6 +406,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3731-find-missing-elements) |

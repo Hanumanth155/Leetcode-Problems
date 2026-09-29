@@ -305,6 +305,7 @@
 | [0520-detect-capital](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [0796-rotate-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
@@ -563,6 +564,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |

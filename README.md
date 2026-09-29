@@ -185,6 +185,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |

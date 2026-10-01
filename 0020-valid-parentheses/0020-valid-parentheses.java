@@ -9,7 +9,7 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-                if(st.peek()=='('&&ch==')'||
+             if(st.peek()=='('&&ch==')'||
                 st.peek()=='['&&ch==']'||
                 st.peek()=='{'&&ch=='}'){
                     st.pop();

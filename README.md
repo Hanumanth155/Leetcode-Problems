@@ -190,6 +190,7 @@
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -363,6 +364,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
@@ -382,6 +384,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -392,6 +395,7 @@
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |

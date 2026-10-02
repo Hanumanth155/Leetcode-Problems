@@ -49,6 +49,7 @@
 | [0704-binary-search](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
@@ -418,6 +419,7 @@
 | [0414-third-maximum-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |

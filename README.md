@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -271,6 +272,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -376,6 +378,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -477,6 +480,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0724-find-pivot-index) |

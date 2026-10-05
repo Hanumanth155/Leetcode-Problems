@@ -322,6 +322,7 @@
 | [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
@@ -459,6 +460,7 @@
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -532,6 +534,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Euclidean Algorithm

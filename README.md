@@ -55,6 +55,7 @@
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -430,6 +431,7 @@
 | [0645-set-mismatch](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -525,6 +527,7 @@
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -585,6 +588,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -624,4 +628,20 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

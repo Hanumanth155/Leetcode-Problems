@@ -18,9 +18,8 @@ class Solution {
                 sb.append(count);
             }                     
         }
-        char[] res =sb.toString().toCharArray();
-        for(char x=0;x<res.length;x++){
-            chars[x]=res[x];
+        for(int x=0;x<sb.length();x++){
+            chars[x]=sb.charAt(x);
         }
         return sb.length();
     }

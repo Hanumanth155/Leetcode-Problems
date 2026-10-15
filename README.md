@@ -91,6 +91,7 @@
 | [2733-neither-minimum-nor-maximum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +145,7 @@
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2716-minimize-string-length) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -662,4 +664,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

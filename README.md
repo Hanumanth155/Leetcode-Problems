@@ -19,6 +19,7 @@
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -237,6 +238,7 @@
 | [0027-remove-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -434,6 +436,7 @@
 | [0015-3sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -675,4 +678,12 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

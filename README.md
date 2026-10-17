@@ -192,6 +192,7 @@
 | [0189-rotate-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -395,6 +397,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |

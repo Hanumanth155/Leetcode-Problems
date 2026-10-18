@@ -363,6 +363,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -505,6 +506,7 @@
 | [0763-partition-labels](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
@@ -517,6 +519,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -645,6 +648,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
 |  |
 | ------- |

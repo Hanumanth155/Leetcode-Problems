@@ -65,6 +65,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
+| [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -142,6 +143,7 @@
 | [0890-find-and-replace-pattern](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0890-find-and-replace-pattern) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -481,6 +483,7 @@
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |

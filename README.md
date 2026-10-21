@@ -399,6 +399,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Enumeration
 |  |
 | ------- |

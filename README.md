@@ -352,6 +352,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -450,6 +451,7 @@
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0394-decode-string) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -527,6 +529,7 @@
 | [0020-valid-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |

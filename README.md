@@ -78,6 +78,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -151,6 +152,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -290,6 +292,7 @@
 | [0917-reverse-only-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -497,6 +500,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |

@@ -54,6 +54,7 @@
 | [0724-find-pivot-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0848-shifting-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
@@ -577,6 +578,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |

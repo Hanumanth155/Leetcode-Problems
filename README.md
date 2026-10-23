@@ -64,6 +64,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1051-height-checker](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -497,6 +498,7 @@
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -728,6 +730,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -744,6 +747,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1051-height-checker) |
 ## Newton's Method
 |  |
 | ------- |

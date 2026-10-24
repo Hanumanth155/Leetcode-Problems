@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -527,6 +528,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0409-longest-palindrome) |
@@ -614,6 +616,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

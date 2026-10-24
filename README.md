@@ -226,6 +226,7 @@
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2169-count-operations-to-obtain-zero) |
+| [2409-count-days-spent-together](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -399,6 +400,7 @@
 | [2129-capitalize-the-title](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
 | [2278-percentage-of-letter-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2716-minimize-string-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2716-minimize-string-length) |

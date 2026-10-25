@@ -400,6 +400,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2129-capitalize-the-title) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2278-percentage-of-letter-in-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2278-percentage-of-letter-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
@@ -540,6 +541,7 @@
 | [0881-boats-to-save-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2224-minimum-number-of-operations-to-convert-time](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |

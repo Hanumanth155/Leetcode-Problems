@@ -3,7 +3,7 @@ class Solution {
     public int convertTime(String current, String correct) {
         int time1 = totalMinutes(current);
         int time2 = totalMinutes(correct);
-        int timeDiff = Math.abs(time1-time2);
+        int timeDiff = time2-time1;
         int count=0;
         for(int i=0;i<m.length;i++){
             while(timeDiff>=m[i]){

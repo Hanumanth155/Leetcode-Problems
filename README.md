@@ -78,6 +78,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -156,6 +157,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
@@ -187,6 +189,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -227,6 +230,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2169-count-operations-to-obtain-zero) |

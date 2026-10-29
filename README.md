@@ -90,6 +90,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -164,6 +165,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
@@ -194,6 +196,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -233,6 +236,7 @@
 | [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2409-count-days-spent-together](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -257,6 +261,7 @@
 | [0258-add-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2413-smallest-even-multiple](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |

@@ -236,6 +236,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |

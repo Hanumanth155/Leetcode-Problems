@@ -122,6 +122,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3866-first-unique-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3866-first-unique-even-element) |
@@ -258,6 +259,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3765-complete-prime-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3765-complete-prime-number) |
 | [3870-count-commas-in-range](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3870-count-commas-in-range) |
 ## Number Theory

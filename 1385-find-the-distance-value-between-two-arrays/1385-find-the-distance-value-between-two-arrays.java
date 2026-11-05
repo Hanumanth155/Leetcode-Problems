@@ -12,7 +12,7 @@ class Solution {
                 if(diff<=d){
                     found=true;
                     break;
-                }else if(arr2[mid]<arr1[i]){
+                }else if(arr1[i]>arr2[mid]){
                     left=mid+1;
                 }else{
                     right=mid-1;

@@ -114,6 +114,7 @@
 | [2942-find-words-containing-character](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2951-find-the-peaks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |

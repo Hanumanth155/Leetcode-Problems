@@ -100,6 +100,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |

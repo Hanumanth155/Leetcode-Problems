@@ -117,6 +117,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -483,6 +484,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -618,6 +620,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |

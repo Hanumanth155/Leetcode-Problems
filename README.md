@@ -85,6 +85,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -246,6 +247,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1360-number-of-days-between-two-dates](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1360-number-of-days-between-two-dates) |
 | [1512-number-of-good-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1952-three-divisors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -622,6 +624,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
@@ -668,6 +671,7 @@
 | [0392-is-subsequence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bracket Sequences
 |  |
 | ------- |

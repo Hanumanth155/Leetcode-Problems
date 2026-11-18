@@ -107,6 +107,7 @@
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2404-most-frequent-even-element](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2418-sort-the-people) |
@@ -478,6 +479,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2169-count-operations-to-obtain-zero) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2293-min-max-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2810-faulty-keyboard) |

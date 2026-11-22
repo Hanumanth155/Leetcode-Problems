@@ -433,6 +433,7 @@
 | [1768-merge-strings-alternately](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -564,6 +565,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1859-sorting-the-sentence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -821,6 +823,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/1859-sorting-the-sentence) |
 ## Newton's Method
 |  |
 | ------- |

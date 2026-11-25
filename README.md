@@ -267,6 +267,7 @@
 | [2582-pass-the-pillow](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2582-pass-the-pillow) |
 | [2614-prime-in-diagonal](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3100-water-bottles-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3100-water-bottles-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -492,6 +493,7 @@
 | [2582-pass-the-pillow](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2582-pass-the-pillow) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/2810-faulty-keyboard) |
+| [3100-water-bottles-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3100-water-bottles-ii) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |

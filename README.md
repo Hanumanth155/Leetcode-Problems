@@ -271,6 +271,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -496,6 +497,7 @@
 | [3100-water-bottles-ii](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3100-water-bottles-ii) |
 | [3174-clear-digits](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Hanumanth155/Leetcode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sliding Window
